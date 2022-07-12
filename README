@@ -1,0 +1,23 @@
+x200-ec-mute
+
+
+ABOUT
+-----
+
+This is a bash script to control mute button behavior on
+ThinkPad GM45 (Montevina) series such as X200, T400 etc.
+
+If your mute button doens't work or works in unexpected ways,
+you might want to try it.
+
+
+DEPENDENCIES
+------------
+
+util/ectool from coreboot
+
+
+LICENSE
+-------
+
+MIT
